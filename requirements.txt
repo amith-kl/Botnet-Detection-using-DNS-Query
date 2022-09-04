@@ -1,0 +1,8 @@
+tkinter
+sklearn
+matplotlib
+pandas
+tensorflow
+numpy
+pydnsbl
+tld
